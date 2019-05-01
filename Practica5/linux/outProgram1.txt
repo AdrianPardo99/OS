@@ -1,0 +1,918 @@
+Main process: [PPID]=4959	[PID]=2762
+Child process: [PPID]=2762	[PID]=2763
+	Value in i: 1 Thread ID: 139714579842816
+		Value in j: 1 Thread ID: 139714571450112
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139714521093888
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139714470737664
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139714420381440
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139714370025216
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139714319668992
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139714269312768
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+		Value in j: 8 Thread ID: 139714218956544
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139714168600320
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139714118244096
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 2 Thread ID: 139714067887872
+		Value in j: 1 Thread ID: 139714059495168
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139714009138944
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139713958782720
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139713908426496
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139713858070272
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139713807714048
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139713757357824
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139713707001600
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139713656645376
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139713606289152
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 3 Thread ID: 139713555932928
+		Value in j: 1 Thread ID: 139713547540224
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139713497184000
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139713446827776
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139713396471552
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139713346115328
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139713295759104
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139713245402880
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139713195046656
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139713144690432
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139713094334208
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 4 Thread ID: 139713043977984
+		Value in j: 1 Thread ID: 139713035585280
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139712985229056
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139712934872832
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139712884516608
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139712834160384
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139712783804160
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139712733447936
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139712683091712
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139712632735488
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139712582379264
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 5 Thread ID: 139712532023040
+		Value in j: 1 Thread ID: 139712523630336
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139712473274112
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139712422917888
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139712372561664
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139712322205440
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139712271849216
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139712221492992
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+			Value in k: 1 Practica 5
+		Value in j: 8 Thread ID: 139712171136768
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139712120780544
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139712070424320
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 6 Thread ID: 139712020068096
+		Value in j: 1 Thread ID: 139712011675392
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139711961319168
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139711910962944
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139711860606720
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139711810250496
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139711759894272
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139711709538048
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139711659181824
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139711608825600
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139711558469376
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 7 Thread ID: 139711508113152
+		Value in j: 1 Thread ID: 139711499720448
+			Value in k: 2 Practica 5
+			Value in k: 1 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139711449364224
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139711399008000
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139711348651776
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139711298295552
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139711247939328
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139711197583104
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139711147226880
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139711096870656
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139711046514432
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 8 Thread ID: 139710996158208
+		Value in j: 1 Thread ID: 139710987765504
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139710937409280
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139710887053056
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139710836696832
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139710786340608
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139710735984384
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139710685628160
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139710635271936
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139710584915712
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139710534559488
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 9 Thread ID: 139710484203264
+		Value in j: 1 Thread ID: 139710475810560
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139710425454336
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139710375098112
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139710324741888
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139710274385664
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139710224029440
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139710173673216
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139710123316992
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139710072960768
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139710022604544
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 10 Thread ID: 139709972248320
+		Value in j: 1 Thread ID: 139709963855616
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139709913499392
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139709863143168
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139709812786944
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139709762430720
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139709712074496
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139709661718272
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139709611362048
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139709561005824
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139709510649600
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 11 Thread ID: 139709460293376
+		Value in j: 1 Thread ID: 139709451900672
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139709401544448
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139709351188224
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139709300832000
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139709250475776
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139709200119552
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139709149763328
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139709099407104
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139709049050880
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139708998694656
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 12 Thread ID: 139708948338432
+		Value in j: 1 Thread ID: 139708939945728
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139708889589504
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139708839233280
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139708788877056
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139708738520832
+			Value in k: 1 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139708688164608
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139708637808384
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139708587452160
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139708537095936
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139708486739712
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 13 Thread ID: 139708436383488
+		Value in j: 1 Thread ID: 139708427990784
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139708377634560
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139708327278336
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139708276922112
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139708226565888
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139708176209664
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139708125853440
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139708075497216
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139708025140992
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139707974784768
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 14 Thread ID: 139707924428544
+		Value in j: 1 Thread ID: 139707916035840
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139707865679616
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139707815323392
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139707764967168
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139707714610944
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139707664254720
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139707613898496
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139707563542272
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139707513186048
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139707462829824
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+	Value in i: 15 Thread ID: 139707412473600
+		Value in j: 1 Thread ID: 139707404080896
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 2 Thread ID: 139707353724672
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 3 Thread ID: 139707303368448
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 4 Thread ID: 139707253012224
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 5 Thread ID: 139707202656000
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 6 Thread ID: 139707152299776
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 7 Thread ID: 139707101943552
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 8 Thread ID: 139707051587328
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 9 Thread ID: 139707001231104
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+		Value in j: 10 Thread ID: 139706950874880
+			Value in k: 1 Practica 5
+			Value in k: 2 Practica 5
+			Value in k: 3 Practica 5
+			Value in k: 4 Practica 5
+			Value in k: 5 Practica 5
+Main process: [PPID]=4959	[PID]=2762
